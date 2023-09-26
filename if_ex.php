@@ -6,5 +6,4 @@ echo "greater";
     echo "Lower";   
 }
 
-//if($n%2==0)
 ?>
